@@ -18,6 +18,10 @@ Um simples projeto que exibe a hora atual e muda a aparência com base no horár
 -   CSS
 -   JavaScript
 
+## Captura de Tela
+
+Aqui está uma prévia do jogo:
+<img src="assets/demo.png" alt="imagem_readme">
 
 ## Instalação e Uso
 
